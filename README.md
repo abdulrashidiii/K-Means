@@ -8,7 +8,7 @@ A short python script utilizing scikit-learn is included for comparison of compu
 | Implementation | 100k x 5 matrix | ~1M x 5 matrix |
 | -------------- | --------------- | -------------- |
 | C++ (vector)   | 2.5396 seconds  | 25.0443 seconds |
-| Python (sklearn) | 3.396 seconds | 23.030 seconds |
+| Python (sklearn) | 3.3960 seconds | 23.0300 seconds |
 
 Present implementation does not scale well with large data.
 
